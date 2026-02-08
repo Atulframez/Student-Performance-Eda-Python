@@ -80,5 +80,47 @@ pip install pandas matplotlib seaborn
 python kaggle_(students_performance_in_exams).py
 Make sure StudentsPerformance.csv is present in the same directory.
 
+## 📌 Key Insights
 
+Reading and Writing scores are strongly correlated
+
+Female students generally perform better in Reading and Writing
+
+Math scores show wider variation
+
+Students with standard lunch show more consistent performance
+
+Nutrition and gender influence academic outcomes
+
+## 🧪 Learning Outcomes
+
+Practical Exploratory Data Analysis
+
+Data visualization techniques
+
+Grouped statistical analysis
+
+Correlation interpretation
+
+Data-driven insight generation
+
+## 🔮 Future Work
+
+Apply machine learning models for score prediction
+
+Feature engineering
+
+Add interactive visualizations
+
+Compare multiple datasets
+
+## 👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+## ⭐ Support
+
+If you find this project useful, don’t forget to star ⭐ the repository!
 
